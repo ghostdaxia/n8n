@@ -1,4 +1,5 @@
-import defaultLang from '../locale/lang/en';
+// import defaultLang from '../locale/lang/en';
+import defaultLang from '../locale/lang/ch';
 import Vue from 'vue';
 import Format from './format';
 

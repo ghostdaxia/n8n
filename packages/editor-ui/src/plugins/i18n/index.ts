@@ -14,7 +14,8 @@ import {
 	locale,
 } from 'n8n-design-system';
 
-import englishBaseText from './locales/en.json';
+// import englishBaseText from './locales/en.json';
+import englishBaseText from './locales/ch.json';
 
 Vue.use(VueI18n);
 locale.use('en');
