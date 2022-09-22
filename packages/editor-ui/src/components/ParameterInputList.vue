@@ -320,7 +320,7 @@ export default mixins(
 		display: none;
 		position: absolute;
 		z-index: 999;
-		color: #f56c6c;
+		color: #2c67ff;
 		font-size: var(--font-size-2xs);
 
 		&:hover {

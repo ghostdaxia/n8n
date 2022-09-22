@@ -191,7 +191,7 @@ export const showMessage = mixins(externalHooks).extend({
 				<br>
 				<details>
 					<summary
-						style="color: #ff6d5a; font-weight: bold; cursor: pointer;"
+						style="color: #3aa1fe; font-weight: bold; cursor: pointer;"
 					>
 						${this.$locale.baseText('showMessage.showDetails')}
 					</summary>

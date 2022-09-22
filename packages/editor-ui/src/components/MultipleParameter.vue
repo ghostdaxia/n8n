@@ -146,7 +146,7 @@ export default mixins(genericHelpers)
 	left: 0.1em;
 	top: .3em;
 	z-index: 999;
-	color: #f56c6c;
+	color: #2c67ff;
 	width: 15px;
 	font-size: var(--font-size-2xs);
 

@@ -305,7 +305,7 @@ export default mixins(genericHelpers)
 	display: none;
 	position: absolute;
 	z-index: 999;
-	color: #f56c6c;
+	color: #2c67ff;
 	left: 0;
 	top: 0.5em;
 	width: 15px;
