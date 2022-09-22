@@ -1,0 +1,3 @@
+#color change
+#ff6d5a  --> #3aa1fe
+#f56c6c  --> #2c67ff
